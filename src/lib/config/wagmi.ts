@@ -3,7 +3,7 @@ import { WagmiAdapter } from "@reown/appkit-adapter-wagmi";
 import { arbitrumSepolia } from "@reown/appkit/networks";
 import { hypeEvmTestnet } from "./chains";
 
-export const projectId = "02b218a0fae412edcdb5e5bff9441a94";
+export const projectId = "89f403febd9da9446b21489f02e07f48";
 
 export const networks = [hypeEvmTestnet, arbitrumSepolia];
 
